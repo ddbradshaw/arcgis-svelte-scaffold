@@ -11,7 +11,7 @@ export function initialize(container: string) {
 
   view = new MapView({
     container,
-    map: map,
+    map,
     zoom: 10,
     center: [-118, 34],
   });
