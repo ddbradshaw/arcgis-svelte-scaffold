@@ -10,7 +10,7 @@
     "test": "web-test-runner \"src/**/*.test.ts\""
   },
   "dependencies": {
-    "@arcgis/core": "^4.23.5",
+    "@arcgis/core": "^4.23.7",
     "svelte": "^3.37.0"
   },
   "devDependencies": {
